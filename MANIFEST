@@ -1,0 +1,8 @@
+lib/Acme-CPANAuthors-Booking.pm
+Makefile.PL
+MANIFEST
+t/000_basic.t
+t/950_pod.t
+t/960_pod_coverage.t
+Changes
+README
