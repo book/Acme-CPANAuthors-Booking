@@ -1,4 +1,4 @@
-lib/Acme-CPANAuthors-Booking.pm
+lib/Acme/CPANAuthors/Booking.pm
 Makefile.PL
 MANIFEST
 t/000_basic.t

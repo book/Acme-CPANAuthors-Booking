@@ -8,7 +8,7 @@ no  warnings 'syntax';
 
 use ExtUtils::MakeMaker;
 
-my  $PACKAGE      =  'Acme-CPANAuthors-Booking';
+my  $PACKAGE      =  'Acme::CPANAuthors::Booking';
 
 my  $LIB_FILE     =  "lib/$PACKAGE.pm";
     $LIB_FILE     =~  s!::!/!g;
