@@ -26,8 +26,9 @@ my %args = (
     VERSION_FROM         =>  $LIB_FILE,
     ABSTRACT_FROM        =>  $LIB_FILE,
     PREREQ_PM            => {
-        'strict'             =>  0,
-        'warnings'           =>  0,
+        'Acme::CPANAuthors::Register'  =>  0,
+        'strict'                       =>  0,
+        'warnings'                     =>  0,
     },
     MIN_PERL_VERSION     =>   5.006,
     AUTHOR               =>  "$ME <$LOCAL_ADDR\@$DOMAIN>",
@@ -37,6 +38,7 @@ my %args = (
             'strict'             => 0,
             'warnings'           => 0,
             'Test::More'         => 0.88,
+            'Acme::CPANAuthors'  => 0,  
         },
         resources        => {
             repository   => $REPOSITORY,

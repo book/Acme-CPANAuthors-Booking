@@ -5,7 +5,7 @@ use strict;
 use warnings;
 no  warnings 'syntax';
 
-our $VERSION = '2010091101';
+our $VERSION = '2010091501';
 
 use Acme::CPANAuthors::Register (
     ABIGAIL       =>   "Abigail",
