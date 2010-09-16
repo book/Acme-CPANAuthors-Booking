@@ -18,7 +18,7 @@ BEGIN {
 
 ok defined $Acme::CPANAuthors::Booking::VERSION, "VERSION is set";
 
-my $authors = Acme::CPANAuthors -> new ('EU');
+my $authors = Acme::CPANAuthors -> new ('Booking');
 
 ok $authors, 'Got $authors';
 
