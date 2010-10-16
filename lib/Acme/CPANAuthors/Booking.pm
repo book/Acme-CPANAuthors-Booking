@@ -10,6 +10,7 @@ our $VERSION = '2010092001';
 use Acme::CPANAuthors::Register (
     ABIGAIL       =>   "Abigail",
     ANDY          =>   "Andrew Shitov",
+    AVAR          =>   "\x{C6}var Arnfj\x{F6}r\x{F0} Bjarmason",
     BLOM          =>   "Menno Blom",
     BOOK          =>   "Philippe Bruhat (BooK)",
     BRUNORC       =>   "Bruno Czekay",
