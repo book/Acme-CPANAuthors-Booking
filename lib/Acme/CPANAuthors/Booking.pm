@@ -5,7 +5,7 @@ use strict;
 use warnings;
 no  warnings 'syntax';
 
-our $VERSION = '2010103101';
+our $VERSION = '2010112601';
 
 use Acme::CPANAuthors::Register (
     ABIGAIL       =>   "Abigail",
@@ -31,6 +31,7 @@ use Acme::CPANAuthors::Register (
     POTYL         =>   "Emmanuel Rodriguez",
     RGARCIA       =>   "Rafa\x{EB}l Garcia-Suarez",
     SLANNING      =>   "Scott Lanning",
+    SMUELLER      =>   "Steffen Mueller",
     XANT          =>   "Andrea Guzzo",
     YVES          =>   "Yves",
 );
