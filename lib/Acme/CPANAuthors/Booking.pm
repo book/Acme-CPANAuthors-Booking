@@ -5,7 +5,7 @@ use strict;
 use warnings;
 no  warnings 'syntax';
 
-our $VERSION = '2011052101';
+our $VERSION = '2011080101';
 
 use Acme::CPANAuthors::Register (
     ABIGAIL       =>   "Abigail",
@@ -27,6 +27,7 @@ use Acme::CPANAuthors::Register (
     MSILVA        =>   "Mario Silva",
     NEVES         =>   "Marco Neves",
     NFERRAZ       =>   "Nelson Ferraz",
+    NPEREZ        =>   "Nicholas Perez",
     OVID          =>   'Curtis "Ovid" Poe',
     POTYL         =>   "Emmanuel Rodriguez",
     RGARCIA       =>   "Rafa\x{EB}l Garcia-Suarez",
@@ -85,7 +86,7 @@ Abigail, L<< mailto:cpan@abigail.be >>.
 
 =head1 COPYRIGHT and LICENSE
 
-Copyright (C) 2010 by Abigail.
+Copyright (C) 2010, 2011 by Abigail.
 
 Permission is hereby granted, free of charge, to any person obtaining a
 copy of this software and associated documentation files (the "Software"),   
