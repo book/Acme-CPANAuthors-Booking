@@ -5,7 +5,7 @@ use strict;
 use warnings;
 no  warnings 'syntax';
 
-our $VERSION = '2011080102';
+our $VERSION = '2011091501';
 
 use Acme::CPANAuthors::Register (
     ABIGAIL       =>   "Abigail",
@@ -25,6 +25,7 @@ use Acme::CPANAuthors::Register (
     JGOFF         =>   "Jeff Goff",
     MATTK         =>   "Matt Koscica",
 #   MEGA          =>   "Cristina Martins Nunes",  # ID exists, but no modules
+    MSANTOS       =>   "Marco Santos",
     MSILVA        =>   "Mario Silva",
     NEVES         =>   "Marco Neves",
     NFERRAZ       =>   "Nelson Ferraz",
