@@ -5,16 +5,18 @@ use strict;
 use warnings;
 no  warnings 'syntax';
 
-our $VERSION = '2011091501';
+our $VERSION = '2012050701';
 
 use Acme::CPANAuthors::Register (
     ABIGAIL       =>   "Abigail",
-    ANDY          =>   "Andrew Shitov",
     AVAR          =>   "\x{C6}var Arnfj\x{F6}r\x{F0} Bjarmason",
+    BLHOTSKY      =>   "Brad Lhotsky",
     BLOM          =>   "Menno Blom",
     BOOK          =>   "Philippe Bruhat (BooK)",
     BRUNORC       =>   "Bruno Czekay",
     BURAK         =>   "Burak G\x{FC}rsoy",
+    CADAVIS       =>   "Chad A. Davis",
+    CAIO          =>   "Caio Rom\x{E3}o Costa Nascimento",
     GGOUDSMIT     =>   "Gilion Goudsmit",
     DMOR          =>   "David Morel",
     ELIZABETH     =>   "Elizabeth Mattijsen",
@@ -25,14 +27,16 @@ use Acme::CPANAuthors::Register (
     JGOFF         =>   "Jeff Goff",
     MATTK         =>   "Matt Koscica",
 #   MEGA          =>   "Cristina Martins Nunes",  # ID exists, but no modules
+    MET           =>   "Quim Rovira",
     MSANTOS       =>   "Marco Santos",
     MSILVA        =>   "Mario Silva",
+    MVUETS        =>   "Maxim Vuets",
     NEVES         =>   "Marco Neves",
     NFERRAZ       =>   "Nelson Ferraz",
     NPEREZ        =>   "Nicholas Perez",
-    OVID          =>   'Curtis "Ovid" Poe',
     POTYL         =>   "Emmanuel Rodriguez",
     RGARCIA       =>   "Rafa\x{EB}l Garcia-Suarez",
+    RHOELZ        =>   "Rob Hoelz",
     SEVEAS        =>   "Dennis Kaarsemaker",
     SLANNING      =>   "Scott Lanning",
     SMUELLER      =>   "Steffen M\x{FC}ller",
