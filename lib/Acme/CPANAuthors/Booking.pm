@@ -21,7 +21,7 @@ use Acme::CPANAuthors::Register (
     DMOR          =>   "David Morel",
     ELIZABETH     =>   "Elizabeth Mattijsen",
     FGLOCK        =>   "Fl\x{E1}vio Soibelmann Glock",
-    GUGOD         =>   "Kang-min Liu",
+    GUGOD         =>   "\x{5289}\x{5EB7}\x{6C11} (Liu Kang Min)",
     IZUT          =>   "Igor Sutton",
     JANUS         =>   "Simon Bertrang",
     JGDA          =>   "Jonas Galhordas Duarte Alves",
