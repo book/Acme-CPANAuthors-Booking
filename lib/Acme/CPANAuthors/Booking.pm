@@ -5,7 +5,7 @@ use strict;
 use warnings;
 no  warnings 'syntax';
 
-our $VERSION = '2012052501';
+our $VERSION = '2012062101';
 
 use Acme::CPANAuthors::Register (
     ABIGAIL       =>   "Abigail",
@@ -14,13 +14,17 @@ use Acme::CPANAuthors::Register (
     BLOM          =>   "Menno Blom",
     BOOK          =>   "Philippe Bruhat (BooK)",
     BRUNORC       =>   "Bruno Czekay",
+#   BUCCIA        =>   "Fernando Vezzosi",        # ID exists, but no modules
     BURAK         =>   "Burak G\x{FC}rsoy",
     CADAVIS       =>   "Chad A. Davis",
     CAIO          =>   "Caio Rom\x{E3}o Costa Nascimento",
+    DEEPAKG       =>   "Deepak Gulati",
     GGOUDSMIT     =>   "Gilion Goudsmit",
     DMOR          =>   "David Morel",
     FGLOCK        =>   "Fl\x{E1}vio Soibelmann Glock",
     GUGOD         =>   "\x{5289}\x{5EB7}\x{6C11} (Liu Kang Min)",
+#   HPETERS       =>   "Huub Peters",             # ID exists, but no modules
+#   IFTEKHAR      =>   "Iftekharul Haque",        # ID exists, but no modules
     IZUT          =>   "Igor Sutton",
     JANUS         =>   "Simon Bertrang",
     JGDA          =>   "Jonas Galhordas Duarte Alves",
@@ -36,8 +40,10 @@ use Acme::CPANAuthors::Register (
     RGARCIA       =>   "Rafa\x{EB}l Garcia-Suarez",
     RHOELZ        =>   "Rob Hoelz",
     SEVEAS        =>   "Dennis Kaarsemaker",
+#   SILVAN        =>   "Silvan Kok",              # ID exists, but no modules
     SLANNING      =>   "Scott Lanning",
     SMUELLER      =>   "Steffen M\x{FC}ller",
+    STRANGE       =>   "Luciano Miguel Ferreira Rocha",
     XANT          =>   "Andrea Guzzo",
     YVES          =>   "Yves",
 );
