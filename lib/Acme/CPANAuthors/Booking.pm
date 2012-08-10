@@ -48,6 +48,7 @@ use Acme::CPANAuthors::Register (
     SMUELLER      =>   "Steffen M\x{FC}ller",
     STRANGE       =>   "Luciano Miguel Ferreira Rocha",
 #   TJMC          =>   "Tomasz Czepiel",          # ID exists, but no modules
+#   VMIKULIC      =>   " Vedran Mikulic",         # ID exists, but no modules
     XANT          =>   "Andrea Guzzo",
     YVES          =>   "Yves",
 );
