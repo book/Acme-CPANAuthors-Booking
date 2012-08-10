@@ -29,6 +29,7 @@ use Acme::CPANAuthors::Register (
     IZUT          =>   "Igor Sutton",
     JANUS         =>   "Simon Bertrang",
     JGDA          =>   "Jonas Galhordas Duarte Alves",
+#   MALANDER      =>   "Ryan Bastic",             # ID exists, but no modules
     MATTK         =>   "Matt Koscica",
 #   MEGA          =>   "Cristina Martins Nunes",  # ID exists, but no modules
     MET           =>   "Quim Rovira",
