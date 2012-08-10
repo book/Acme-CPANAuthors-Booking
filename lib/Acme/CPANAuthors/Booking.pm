@@ -18,6 +18,7 @@ use Acme::CPANAuthors::Register (
     BURAK         =>   "Burak G\x{FC}rsoy",
     CADAVIS       =>   "Chad A. Davis",
     CAIO          =>   "Caio Rom\x{E3}o Costa Nascimento",
+#   CANECA        =>   "Matheus Victor Brum Soares", # ID exists, but no modules
     DAMOG         =>   "David Moreno",
     DEEPAKG       =>   "Deepak Gulati",
     GGOUDSMIT     =>   "Gilion Goudsmit",
