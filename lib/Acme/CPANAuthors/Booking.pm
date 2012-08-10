@@ -23,6 +23,7 @@ use Acme::CPANAuthors::Register (
     DAMOG         =>   "David Moreno",
     DEEPAKG       =>   "Deepak Gulati",
     GGOUDSMIT     =>   "Gilion Goudsmit",
+    DEEPAKG       =>   "Deepak Gulati",
     DMOR          =>   "David Morel",
     FGLOCK        =>   "Fl\x{E1}vio Soibelmann Glock",
     GUGOD         =>   "\x{5289}\x{5EB7}\x{6C11} (Liu Kang Min)",
