@@ -18,8 +18,12 @@ use Acme::CPANAuthors::Register (
     BURAK         =>   "Burak G\x{FC}rsoy",
     CADAVIS       =>   "Chad A. Davis",
     CAIO          =>   "Caio Rom\x{E3}o Costa Nascimento",
+#   CANECA        =>   "Matheus Victor Brum Soares", # ID exists, but no modules
+#   CHE           =>   "Andrey Shpachenko",
+    DAMOG         =>   "David Moreno",
     DEEPAKG       =>   "Deepak Gulati",
     GGOUDSMIT     =>   "Gilion Goudsmit",
+    DEEPAKG       =>   "Deepak Gulati",
     DMOR          =>   "David Morel",
     FGLOCK        =>   "Fl\x{E1}vio Soibelmann Glock",
     GUGOD         =>   "\x{5289}\x{5EB7}\x{6C11} (Liu Kang Min)",
@@ -28,6 +32,7 @@ use Acme::CPANAuthors::Register (
     IZUT          =>   "Igor Sutton",
     JANUS         =>   "Simon Bertrang",
     JGDA          =>   "Jonas Galhordas Duarte Alves",
+#   MALANDER      =>   "Ryan Bastic",             # ID exists, but no modules
     MATTK         =>   "Matt Koscica",
 #   MEGA          =>   "Cristina Martins Nunes",  # ID exists, but no modules
     MET           =>   "Quim Rovira",
@@ -44,6 +49,9 @@ use Acme::CPANAuthors::Register (
     SLANNING      =>   "Scott Lanning",
     SMUELLER      =>   "Steffen M\x{FC}ller",
     STRANGE       =>   "Luciano Miguel Ferreira Rocha",
+#   SUBBU         =>   "Subhojit Banerjee",       # ID exists, but no modules
+#   TJMC          =>   "Tomasz Czepiel",          # ID exists, but no modules
+#   VMIKULIC      =>   " Vedran Mikulic",         # ID exists, but no modules
     XANT          =>   "Andrea Guzzo",
     YVES          =>   "Yves",
 );
