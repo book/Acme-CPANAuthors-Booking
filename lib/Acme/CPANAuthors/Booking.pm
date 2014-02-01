@@ -100,21 +100,24 @@ As soon as Booking.com hires a new CPAN author, this module is out of date.
 
 =head1 COMMERCIAL BREAK
 
-Booking.com is hiring. Send your resume to L<< mailto:cpan@abigail.be >>
+Booking.com is hiring. Send your resume to L<< mailto:work@booking.com >>
 if you are interested.
 
 =head1 DEVELOPMENT
 
 The current sources of this module are found on github,
-L<< git://github.com/Abigail/Acme--CPANAuthors--Booking.git >>.
+L<< git://github.com/book/Acme--CPANAuthors--Booking.git >>.
 
 =head1 AUTHOR
 
-Abigail, L<< mailto:cpan@abigail.be >>.
+Originally written by Abigail, L<< mailto:cpan@abigail.be >>.
+Now maintained by Philippe Bruhat, L<< mailto:book@cpan.org >>.
 
 =head1 COPYRIGHT and LICENSE
 
 Copyright (C) 2010, 2011, 2012 by Abigail.
+Copyright (C) 2012 by Philippe Bruhat.
+Copyright (C) 2010-2014 by Dennis Kaarsemaker.
 
 Permission is hereby granted, free of charge, to any person obtaining a
 copy of this software and associated documentation files (the "Software"),   
