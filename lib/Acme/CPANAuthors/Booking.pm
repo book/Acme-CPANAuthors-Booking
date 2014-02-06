@@ -8,7 +8,6 @@ no  warnings 'syntax';
 our $VERSION = '2012062101';
 
 use Acme::CPANAuthors::Register (
-    ABIGAIL       =>   "Abigail",
     AVAR          =>   "\x{C6}var Arnfj\x{F6}r\x{F0} Bjarmason",
     BLHOTSKY      =>   "Brad Lhotsky",
     BLOM          =>   "Menno Blom",
@@ -82,12 +81,11 @@ Acme::CPANAuthors::Booking - Booking.com CPAN authors
 
  my $number   = $authors -> count;
  my @ids      = $authors -> id;
- my @distros  = $authors -> distributions ("ABIGAIL");
- my $url      = $authors -> avatar_url    ("ABIGAIL");
- my $kwalitee = $authors -> kwalitee      ("ABIGAIL");
- my $name     = $authors -> name          ("ABIGAIL");
-        
-See documentation for Acme::CPANAuthors for more details.
+ my @distros  = $authors -> distributions ("BOOK");
+ my $url      = $authors -> avatar_url    ("BOOK");
+ my $kwalitee = $authors -> kwalitee      ("BOOK");
+ my $name     = $authors -> name          ("BOOK");
+
  
 =head1 DESCRIPTION
 

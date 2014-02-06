@@ -25,7 +25,7 @@ ok $authors, 'Got $authors';
 ok $authors -> count, "There are authors";
 my @ids = $authors -> id;
 ok scalar @ids, "There are ids";
-ok $authors -> name ("ABIGAIL"), "Find a name";
+ok $authors -> name ("BOOK"), "Find a name";
 
 Test::NoWarnings::had_no_warnings () if $r;
 
