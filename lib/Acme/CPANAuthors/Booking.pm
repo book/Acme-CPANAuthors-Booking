@@ -86,11 +86,12 @@ Acme::CPANAuthors::Booking - Booking.com CPAN authors
  my $kwalitee = $authors -> kwalitee      ("BOOK");
  my $name     = $authors -> name          ("BOOK");
 
+See documentation for L<Acme::CPANAuthors> for more details.
  
 =head1 DESCRIPTION
 
 This class provides a hash of Booking.com CPAN authors' PAUSE ID and name to
-the C<< Acme::CPANAuthors >> module.
+the L<Acme::CPANAuthors> module.
 
 =head1 BUGS
 
@@ -104,7 +105,7 @@ if you are interested.
 =head1 DEVELOPMENT
 
 The current sources of this module are found on github,
-L<< git://github.com/book/Acme--CPANAuthors--Booking.git >>.
+L<git://github.com/book/Acme-CPANAuthors-Booking.git>.
 
 =head1 AUTHOR
 
