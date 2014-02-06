@@ -110,16 +110,18 @@ L<git://github.com/book/Acme-CPANAuthors-Booking.git>.
 =head1 AUTHOR
 
 Originally written by Abigail, L<< mailto:cpan@abigail.be >>.
-Now maintained by Philippe Bruhat, L<< mailto:book@cpan.org >>.
+Now maintained by Philippe Bruhat (BooK), L<< mailto:book@cpan.org >>.
 
-=head1 COPYRIGHT and LICENSE
+=head1 COPYRIGHT
 
 Copyright (C) 2010, 2011, 2012 by Abigail.
-Copyright (C) 2012 by Philippe Bruhat.
+Copyright (C) 2012 by Philippe Bruhat (BooK).
 Copyright (C) 2010-2014 by Dennis Kaarsemaker.
 
+=head1 LICENSE
+
 Permission is hereby granted, free of charge, to any person obtaining a
-copy of this software and associated documentation files (the "Software"),   
+copy of this software and associated documentation files (the "Software"),
 to deal in the Software without restriction, including without limitation
 the rights to use, copy, modify, merge, publish, distribute, sublicense,
 and/or sell copies of the Software, and to permit persons to whom the
