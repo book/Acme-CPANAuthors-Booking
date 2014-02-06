@@ -140,7 +140,7 @@ THE SOFTWARE.
 
 =head1 INSTALLATION
 
-To install this module, run, after unpacking the tar-ball, the 
+To install this module, run, after unpacking the tar-ball, the
 following commands:
 
    perl Makefile.PL
