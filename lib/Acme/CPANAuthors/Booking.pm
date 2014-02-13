@@ -22,7 +22,6 @@ use Acme::CPANAuthors::Register (
     DAMOG         =>   "David Moreno",
     DEEPAKG       =>   "Deepak Gulati",
     GGOUDSMIT     =>   "Gilion Goudsmit",
-    DEEPAKG       =>   "Deepak Gulati",
     DMOR          =>   "David Morel",
     FGLOCK        =>   "Fl\x{E1}vio Soibelmann Glock",
 #   FREEMANSR     =>   "Mihajlo An\x{0111}elkovi\x{0107}", # ID exists, but no modules
