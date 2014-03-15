@@ -5,7 +5,7 @@ use strict;
 use warnings;
 no  warnings 'syntax';
 
-our $VERSION = '2014031501';
+our $VERSION = '2014031502';
 
 use Acme::CPANAuthors::Register (
     AVAR          =>   "\x{C6}var Arnfj\x{F6}r\x{F0} Bjarmason",

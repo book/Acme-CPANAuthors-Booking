@@ -1,3 +1,6 @@
+2014031502 Sat Mar 15 2014
++ Adapt the Makefile.PL and META.yml to the new maintainer
+
 2014031501 Sat Mar 15 2014
 + New maintainer: BOOK
 + New repository
