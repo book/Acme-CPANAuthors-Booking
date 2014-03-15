@@ -12,13 +12,13 @@ my  $PACKAGE      =  'Acme::CPANAuthors::Booking';
 
 my  $LIB_FILE     =  "lib/$PACKAGE.pm";
     $LIB_FILE     =~  s!::!/!g;
-my  $LOCAL_ADDR   =  'cpan';
-my  $DOMAIN       =  'abigail.be';
+my  $USER         =  'book';
+my  $DOMAIN       =  'cpan.org';
 my  $REPO         =   $PACKAGE;
-    $REPO         =~  s!::!--!g;
+    $REPO         =~  s!::!-!g;
 my  $REPO_HOST    =  'github.com';
-my  $ME           =  'Abigail';
-my  $REPOSITORY   =  "git://$REPO_HOST/$ME/$REPO.git";
+my  $ME           =  'Philippe Bruhat (BooK)';
+my  $REPOSITORY   =  "http://$REPO_HOST/$USER/$REPO.git";
 
 
 my %args = (
@@ -31,14 +31,14 @@ my %args = (
         'warnings'                     =>  0,
     },
     MIN_PERL_VERSION     =>   5.006,
-    AUTHOR               =>  "$ME <$LOCAL_ADDR\@$DOMAIN>",
+    AUTHOR               =>  "$ME <$USER\@$DOMAIN>",
     LICENSE              =>  'mit',
     META_MERGE           => {
         test_requires    => {
             'strict'             => 0,
             'warnings'           => 0,
             'Test::More'         => 0.88,
-            'Acme::CPANAuthors'  => 0,  
+            'Acme::CPANAuthors'  => 0,
         },
         resources        => {
             repository   => $REPOSITORY,
