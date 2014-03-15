@@ -21,10 +21,10 @@ use Acme::CPANAuthors::Register (
 #   CHE           =>   "Andrey Shpachenko",
     DAMOG         =>   "David Moreno",
     DEEPAKG       =>   "Deepak Gulati",
-    GGOUDSMIT     =>   "Gilion Goudsmit",
     DMOR          =>   "David Morel",
     FGLOCK        =>   "Fl\x{E1}vio Soibelmann Glock",
 #   FREEMANSR     =>   "Mihajlo An\x{0111}elkovi\x{0107}", # ID exists, but no modules
+    GGOUDSMIT     =>   "Gilion Goudsmit",
     GRBHAT        =>   "Gurunandan Bhat",
     GUGOD         =>   "\x{5289}\x{5EB7}\x{6C11} (Liu Kang Min)",
     HERALDB       =>   "Herald van der Breggen",
