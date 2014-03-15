@@ -61,7 +61,7 @@ use Acme::CPANAuthors::Register (
 #   VMIKULIC      =>   "Vedran Mikulic",          # ID exists, but no modules
     XANT          =>   "Andrea Guzzo",
     XSAWYERX      =>   "Sawyer X",
-    YKO           =>   "\x{042F}\x{0440}\x{043E}\x{0441}\x{043B}\x{0430}\x{0432} \x{041A}\x{043E}\x{0440}\x{0448}\x{0430}\x{043A}"
+    YKO           =>   "\x{042F}\x{0440}\x{043E}\x{0441}\x{043B}\x{0430}\x{0432} \x{041A}\x{043E}\x{0440}\x{0448}\x{0430}\x{043A}",
     YVES          =>   "Yves",
     YURAN         =>   "Yury Nevinitsin",
 );
