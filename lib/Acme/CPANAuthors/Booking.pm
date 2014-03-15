@@ -20,6 +20,7 @@ use Acme::CPANAuthors::Register (
 #   CANECA        =>   "Matheus Victor Brum Soares", # ID exists, but no modules
 #   CHE           =>   "Andrey Shpachenko",
     DAMOG         =>   "David Moreno",
+    DAMS          =>   "Damien Krotkine",
     DEEPAKG       =>   "Deepak Gulati",
     DMOR          =>   "David Morel",
     FGLOCK        =>   "Fl\x{E1}vio Soibelmann Glock",
@@ -59,6 +60,7 @@ use Acme::CPANAuthors::Register (
     TJMC          =>   "Tomasz Czepiel",
 #   VMIKULIC      =>   "Vedran Mikulic",          # ID exists, but no modules
     XANT          =>   "Andrea Guzzo",
+    XSAWYERX      =>   "Sawyer X",
     YKO           =>   "\x{042F}\x{0440}\x{043E}\x{0441}\x{043B}\x{0430}\x{0432} \x{041A}\x{043E}\x{0440}\x{0448}\x{0430}\x{043A}"
     YVES          =>   "Yves",
     YURAN         =>   "Yury Nevinitsin",
