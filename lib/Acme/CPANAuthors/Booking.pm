@@ -8,6 +8,8 @@ no  warnings 'syntax';
 our $VERSION = '2014031502';
 
 use Acme::CPANAuthors::Register (
+    ABCDEFGH      =>   "poddar (Amit Poddar)",
+    ALEXT         =>   "Alex Timoshenko",                # ID exists, but no modules
     AVAR          =>   "\x{C6}var Arnfj\x{F6}r\x{F0} Bjarmason",
     BLHOTSKY      =>   "Brad Lhotsky",
     BLOM          =>   "Menno Blom",
@@ -18,12 +20,16 @@ use Acme::CPANAuthors::Register (
     CADAVIS       =>   "Chad A. Davis",
     CAIO          =>   "Caio Rom\x{E3}o Costa Nascimento",
     CANECA        =>   "Matheus Victor Brum Soares", # ID exists, but no modules
+    CGARCIA       =>   "Claudio Garcia",
     CHE           =>   "Andrey Shpachenko",
     DAMOG         =>   "David Moreno",
     DAMS          =>   "Damien Krotkine",
     DEEPAKG       =>   "Deepak Gulati",
+    DGRYSKI       =>   "Damian Gryski",
     DMOR          =>   "David Morel",
+    EHERMAN       =>   "Eric Herman",
     FGLOCK        =>   "Fl\x{E1}vio Soibelmann Glock",
+    FARO          =>   "Tiago Faro Pedroso",             # ID exists, but no modules
     FREEMANSR     =>   "Mihajlo An\x{0111}elkovi\x{0107}", # ID exists, but no modules
     GGOUDSMIT     =>   "Gilion Goudsmit",
     GRBHAT        =>   "Gurunandan Bhat",
@@ -33,15 +39,20 @@ use Acme::CPANAuthors::Register (
     HPETERS       =>   "Huub Peters",             # ID exists, but no modules
     IFTEKHAR      =>   "Iftekharul Haque",        # ID exists, but no modules
     IKRUGLOV      =>   "Ivan Kruglov",            # ID exists, but no modules
+    IPAPONOV      =>   "Ivan Paponov",                   # ID exists, but no modules
     JACKDOE       =>   "Borislav Nikolov",        # ID exists, but no modules
     JALEVIN       =>   "Jospeh A. Levin",         # ID exists, but no modules
     JANUS         =>   "Simon Bertrang",
     JGDA          =>   "Jonas Galhordas Duarte Alves",
+    KATOORU       =>   "karthik katooru",                # ID exists, but no modules
     KOMAROV       =>   "Oleg Komarov",
+    KSURI         =>   "\x{410}\x{43b}\x{435}\x{43a}\x{441}\x{435}\x{439} \x{421}\x{443}\x{440}\x{438}\x{43a}\x{43e}\x{432} (Alexey Surikov)",
     MALANDER      =>   "Ryan Bastic",             # ID exists, but no modules
     MATTK         =>   "Matt Koscica",
+    MAZE          =>   "Wijnand Modderman-Lenstra",      # ID exists, but no modules
     MBARBON       =>   "Mattia Barbon",
     MET           =>   "Quim Rovira",
+    MICKEY        =>   "Micha Nasriachi",
     MSANTOS       =>   "Marco Santos",
     MSILVA        =>   "Mario Silva",
     MVUETS        =>   "Maxim Vuets",
@@ -49,6 +60,7 @@ use Acme::CPANAuthors::Register (
     NPEREZ        =>   "Nicholas Perez",
     PJIRAK        =>   "Peter Jirak",             # ID exists, but no modules
     POTYL         =>   "Emmanuel Rodriguez",
+    PPATTHAR      =>   "Pavan Patthar",                  # ID exists, but no modules
     RGARCIA       =>   "Rafa\x{EB}l Garcia-Suarez",
     SEVEAS        =>   "Dennis Kaarsemaker",
     SILVAN        =>   "Silvan Kok",              # ID exists, but no modules
@@ -57,7 +69,10 @@ use Acme::CPANAuthors::Register (
     STEFANB       =>   "Stefan Boronea",          # ID exists, but no modules
     STRANGE       =>   "Luciano Miguel Ferreira Rocha",
     SYP           =>   "\x{0421}\x{0442}\x{0430}\x{043D}\x{0438}\x{0441}\x{043B}\x{0430}\x{0432} \x{041F}\x{0443}\x{0441}\x{0435}\x{043F}",
+    TECHCODE      =>   "Aleksandar Petrovi\x{107} (Aleksandar Petrovic)",
     TJMC          =>   "Tomasz Czepiel",
+    TJUGO         =>   "Jose Mtanous",                   # ID exists, but no modules
+    TSBRIGGS      =>   "Thomas Stewart Briggs",          # ID exists, but no modules
     VMIKULIC      =>   "Vedran Mikulic",          # ID exists, but no modules
     XANT          =>   "Andrea Guzzo",
     XSAWYERX      =>   "Sawyer X",
