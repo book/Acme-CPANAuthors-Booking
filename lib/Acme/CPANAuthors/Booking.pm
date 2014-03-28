@@ -37,6 +37,7 @@ use Acme::CPANAuthors::Register (
     HERALDB       =>   "Herald van der Breggen",
     HINRIK        =>   "Hinrik \x{d6}rn Sigur\x{f0}sson (Hinrik Orn Sigurdsson)",
     HPETERS       =>   "Huub Peters",                    # ID exists, but no modules
+    HUGMEIR       =>   "Brian Fraser",
     IFTEKHAR      =>   "Iftekharul Haque",               # ID exists, but no modules
     IKRUGLOV      =>   "Ivan Kruglov",                   # ID exists, but no modules
     IPAPONOV      =>   "Ivan Paponov",                   # ID exists, but no modules
