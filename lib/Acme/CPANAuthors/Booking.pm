@@ -116,7 +116,7 @@ As soon as Booking.com hires a new CPAN author, this module is out of date.
 =head1 COMMERCIAL BREAK
 
 Booking.com is hiring. Send your resume to L<work@booking.com>
-if you are interested.
+if you are interested. See also L<https://www.booking.com/jobs/>
 
 =head1 DEVELOPMENT
 
