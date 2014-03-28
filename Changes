@@ -1,3 +1,9 @@
+2014032801 Fri Mar 28 2014
++ Add several employees that were missing
++ Uncomment all authors without distributions on CPAN,
+  to make http://acme.cpanauthors.org/for/booking more accurate
++ The list is now managed by a program
+
 2014031502 Sat Mar 15 2014
 + Adapt the Makefile.PL and META.yml to the new maintainer
 

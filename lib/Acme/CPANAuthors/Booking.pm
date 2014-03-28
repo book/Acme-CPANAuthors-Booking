@@ -5,7 +5,7 @@ use strict;
 use warnings;
 no  warnings 'syntax';
 
-our $VERSION = '2014031502';
+our $VERSION = '2014032801';
 
 use Acme::CPANAuthors::Register (
     ABCDEFGH      =>   "poddar (Amit Poddar)",
@@ -81,7 +81,7 @@ use Acme::CPANAuthors::Register (
     YVES          =>   "Yves",
 );
 
-14656;
+15284;
 
 __END__
 
