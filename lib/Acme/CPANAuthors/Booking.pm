@@ -121,7 +121,7 @@ if you are interested.
 =head1 DEVELOPMENT
 
 The current sources of this module are found on github,
-L<git://github.com/book/Acme-CPANAuthors-Booking.git>.
+L<http://github.com/book/Acme-CPANAuthors-Booking/>.
 
 =head1 AUTHOR
 
