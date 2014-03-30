@@ -62,6 +62,7 @@ use Acme::CPANAuthors::Register (
     PJIRAK        =>   "Peter Jirak",                    # ID exists, but no modules
     POTYL         =>   "Emmanuel Rodriguez",
     PPATTHAR      =>   "Pavan Patthar",                  # ID exists, but no modules
+    PSILVA        =>   "Pedro Silva",
     RGARCIA       =>   "Rafa\x{eb}l Garcia-Suarez (Rafael Garcia-Suarez)",
     SEVEAS        =>   "Dennis Kaarsemaker",
     SILVAN        =>   "Silvan Kok",                     # ID exists, but no modules
