@@ -4,3 +4,5 @@ blib
 pm_to_blib
 MYMETA.*
 *.bak
+00whois.xml
+staff.yml
