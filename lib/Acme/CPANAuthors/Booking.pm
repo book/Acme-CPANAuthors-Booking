@@ -53,13 +53,12 @@ use Acme::CPANAuthors::Register (
     MAZE          =>   "Wijnand Modderman-Lenstra",      # ID exists, but no modules
     MBARBON       =>   "Mattia Barbon",
     MET           =>   "Quim Rovira",
-    MICKEY        =>   "Micha Nasriachi",
+    MICKEY        =>   "Mickey Nasriachi",
     MSANTOS       =>   "Marco Santos",
     MSILVA        =>   "Mario Silva",
     MVUETS        =>   "\x{41c}\x{430}\x{43a}\x{441}\x{438}\x{43c} \x{412}\x{443}\x{435}\x{446} (Maxim Vuets)",# ID exists, but no modules
     NEVES         =>   "Marco Neves",
     NPEREZ        =>   "Nicholas Perez",
-    PJIRAK        =>   "Peter Jirak",                    # ID exists, but no modules
     POTYL         =>   "Emmanuel Rodriguez",
     PPATTHAR      =>   "Pavan Patthar",                  # ID exists, but no modules
     PSILVA        =>   "Pedro Silva",
@@ -79,11 +78,10 @@ use Acme::CPANAuthors::Register (
     XANT          =>   "Andrea Guzzo",
     XSAWYERX      =>   "Sawyer X",
     YKO           =>   "\x{42f}\x{440}\x{43e}\x{441}\x{43b}\x{430}\x{432} \x{41a}\x{43e}\x{440}\x{448}\x{430}\x{43a} (Yaroslav Korshak)",
-    YURAN         =>   "Nevinitsin Yury",
     YVES          =>   "Yves",
 );
 
-15284;
+15540;
 
 __END__
 
