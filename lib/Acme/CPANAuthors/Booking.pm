@@ -11,6 +11,7 @@ use Acme::CPANAuthors::Register (
     ABCDEFGH      =>   "poddar (Amit Poddar)",
     ALEXT         =>   "Alex Timoshenko",                # ID exists, but no modules
     AVAR          =>   "\x{c6}var Arnfj\x{f6}r\x{f0} Bjarmason (AEvar Arnfjord Bjarmason)",
+    BDEVETAK      =>   "Bosko Devetak",                  # ID exists, but no modules
     BLHOTSKY      =>   "Brad Lhotsky",
     BLOM          =>   "Menno Blom",
     BOOK          =>   "Philippe Bruhat (BooK)",
@@ -45,6 +46,7 @@ use Acme::CPANAuthors::Register (
     JALEVIN       =>   "Joseph A. Levin",                # ID exists, but no modules
     JANUS         =>   "Simon Bertrang",
     JGDA          =>   "Jonas Galhordas Duarte Alves",
+    JPO           =>   "Jos\x{e9} Pedro Oliveira (Jose Pedro Oliveira)", # ID exists, but no modules
     KATOORU       =>   "karthik katooru",                # ID exists, but no modules
     KOMAROV       =>   "Oleg Komarov",
     KSURI         =>   "\x{410}\x{43b}\x{435}\x{43a}\x{441}\x{435}\x{439} \x{421}\x{443}\x{440}\x{438}\x{43a}\x{43e}\x{432} (Alexey Surikov)",
@@ -56,7 +58,7 @@ use Acme::CPANAuthors::Register (
     MICKEY        =>   "Mickey Nasriachi",
     MSANTOS       =>   "Marco Santos",
     MSILVA        =>   "Mario Silva",
-    MVUETS        =>   "\x{41c}\x{430}\x{43a}\x{441}\x{438}\x{43c} \x{412}\x{443}\x{435}\x{446} (Maxim Vuets)",# ID exists, but no modules
+    MVUETS        =>   "\x{41c}\x{430}\x{43a}\x{441}\x{438}\x{43c} \x{412}\x{443}\x{435}\x{446} (Maxim Vuets)", # ID exists, but no modules
     NEVES         =>   "Marco Neves",
     NPEREZ        =>   "Nicholas Perez",
     POTYL         =>   "Emmanuel Rodriguez",
@@ -81,7 +83,7 @@ use Acme::CPANAuthors::Register (
     YVES          =>   "Yves",
 );
 
-15540;
+15611;
 
 __END__
 
