@@ -73,7 +73,6 @@ use Acme::CPANAuthors::Register (
     STRANGE       =>   "Luciano Miguel Ferreira Rocha",
     SYP           =>   "\x{421}\x{442}\x{430}\x{43d}\x{438}\x{441}\x{43b}\x{430}\x{432} \x{41f}\x{443}\x{441}\x{435}\x{43f} (Stanislaw Pusep)",
     TECHCODE      =>   "Aleksandar Petrovi\x{107} (Aleksandar Petrovic)",
-    TJMC          =>   "Tomasz Czepiel",
     TJUGO         =>   "Jose Mtanous",                   # ID exists, but no modules
     TSBRIGGS      =>   "Thomas Stewart Briggs",          # ID exists, but no modules
     VMIKULIC      =>   "Vedran Mikulic",                 # ID exists, but no modules
@@ -83,7 +82,7 @@ use Acme::CPANAuthors::Register (
     YVES          =>   "Yves",
 );
 
-15611;
+15656;
 
 __END__
 
