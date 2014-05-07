@@ -82,7 +82,7 @@ use Acme::CPANAuthors::Register (
     YVES          =>   "Yves",
 );
 
-15656;
+15998;
 
 __END__
 
