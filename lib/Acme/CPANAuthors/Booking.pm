@@ -70,6 +70,7 @@ use Acme::CPANAuthors::Register (
     SLANNING      =>   "Scott Lanning",
     SMUELLER      =>   "Steffen M\x{fc}ller (Steffen Mueller)",
     STEFANB       =>   "Stefan Boronea",                 # ID exists, but no modules
+    STEVAN        =>   "Stevan Little",
     STRANGE       =>   "Luciano Miguel Ferreira Rocha",
     SYP           =>   "\x{421}\x{442}\x{430}\x{43d}\x{438}\x{441}\x{43b}\x{430}\x{432} \x{41f}\x{443}\x{441}\x{435}\x{43f} (Stanislaw Pusep)",
     TECHCODE      =>   "Aleksandar Petrovi\x{107} (Aleksandar Petrovic)",
