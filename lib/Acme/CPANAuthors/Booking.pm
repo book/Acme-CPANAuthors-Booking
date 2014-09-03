@@ -11,7 +11,7 @@ use Acme::CPANAuthors::Register (
     ABCDEFGH      =>   "poddar (Amit Poddar)",
     ALEXT         =>   "Alex Timoshenko",                # ID exists, but no modules
     AVAR          =>   "\x{c6}var Arnfj\x{f6}r\x{f0} Bjarmason (AEvar Arnfjord Bjarmason)",
-    BDEVETAK      =>   "Bosko Devetak",                  # ID exists, but no modules
+    BDEVETAK      =>   "Bosko Devetak",
     BLHOTSKY      =>   "Brad Lhotsky",
     BLOM          =>   "Menno Blom",
     BOOK          =>   "Philippe Bruhat (BooK)",
@@ -21,6 +21,7 @@ use Acme::CPANAuthors::Register (
     CADAVIS       =>   "Chad A Davis",
     CAIO          =>   "Caio Rom\x{e3}o Costa Nascimento (Caio Romao Costa Nascimento)",
     CANECA        =>   "Matheus Victor Brum Soares",     # ID exists, but no modules
+    CEADE         =>   "Chris Eade",                     # ID exists, but no modules
     CGARCIA       =>   "Claudio Garcia",
     CHE           =>   "Andrey Shpachenko",              # ID exists, but no modules
     DAMOG         =>   "David Moreno",
@@ -39,15 +40,15 @@ use Acme::CPANAuthors::Register (
     HINRIK        =>   "Hinrik \x{d6}rn Sigur\x{f0}sson (Hinrik Orn Sigurdsson)",
     HPETERS       =>   "Huub Peters",                    # ID exists, but no modules
     HUGMEIR       =>   "Brian Fraser",
-    IFTEKHAR      =>   "Iftekharul Haque",               # ID exists, but no modules
-    IKRUGLOV      =>   "Ivan Kruglov",                   # ID exists, but no modules
+    IFTEKHAR      =>   "Iftekharul Haque",
+    IKRUGLOV      =>   "Ivan Kruglov",
     IPAPONOV      =>   "Ivan Paponov",                   # ID exists, but no modules
-    JACKDOE       =>   "borislav nikolov",               # ID exists, but no modules
+    IZUT          =>   "Igor Sutton",
+    JACKDOE       =>   "borislav nikolov",
     JALEVIN       =>   "Joseph A. Levin",                # ID exists, but no modules
     JANUS         =>   "Simon Bertrang",
     JGDA          =>   "Jonas Galhordas Duarte Alves",
     JPO           =>   "Jos\x{e9} Pedro Oliveira (Jose Pedro Oliveira)", # ID exists, but no modules
-    KATOORU       =>   "karthik katooru",                # ID exists, but no modules
     KOMAROV       =>   "Oleg Komarov",
     KSURI         =>   "\x{410}\x{43b}\x{435}\x{43a}\x{441}\x{435}\x{439} \x{421}\x{443}\x{440}\x{438}\x{43a}\x{43e}\x{432} (Alexey Surikov)",
     MALANDER      =>   "Ryan Bastic",                    # ID exists, but no modules
@@ -60,6 +61,7 @@ use Acme::CPANAuthors::Register (
     MSILVA        =>   "Mario Silva",
     MVUETS        =>   "\x{41c}\x{430}\x{43a}\x{441}\x{438}\x{43c} \x{412}\x{443}\x{435}\x{446} (Maxim Vuets)", # ID exists, but no modules
     NEVES         =>   "Marco Neves",
+    NILSONSFJ     =>   "Nilson Santos Figueiredo J\x{fa}nior (Nilson Santos Figueiredo Junior)",
     NPEREZ        =>   "Nicholas Perez",
     POTYL         =>   "Emmanuel Rodriguez",
     PPATTHAR      =>   "Pavan Patthar",                  # ID exists, but no modules
@@ -69,8 +71,11 @@ use Acme::CPANAuthors::Register (
     SILVAN        =>   "Silvan Kok",                     # ID exists, but no modules
     SLANNING      =>   "Scott Lanning",
     SMUELLER      =>   "Steffen M\x{fc}ller (Steffen Mueller)",
+    SPARKY        =>   "Przemys\x{142}aw Iskra (Przemyslaw Iskra)",
     STEFANB       =>   "Stefan Boronea",                 # ID exists, but no modules
+    STEVAN        =>   "Stevan Little",
     STRANGE       =>   "Luciano Miguel Ferreira Rocha",
+    SWEETKID      =>   "Upasana Shukla",
     SYP           =>   "\x{421}\x{442}\x{430}\x{43d}\x{438}\x{441}\x{43b}\x{430}\x{432} \x{41f}\x{443}\x{441}\x{435}\x{43f} (Stanislaw Pusep)",
     TECHCODE      =>   "Aleksandar Petrovi\x{107} (Aleksandar Petrovic)",
     TJUGO         =>   "Jose Mtanous",                   # ID exists, but no modules
@@ -82,7 +87,7 @@ use Acme::CPANAuthors::Register (
     YVES          =>   "Yves",
 );
 
-15998;
+20999;
 
 __END__
 
