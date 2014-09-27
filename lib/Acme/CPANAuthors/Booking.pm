@@ -121,7 +121,7 @@ As soon as Booking.com hires a new CPAN author, this module is out of date.
 
 =head1 COMMERCIAL BREAK
 
-Booking.com is hiring. Send your resume to L<work@booking.com>
+Booking.com is hiring. Send your resume to L<mailto:work@booking.com>
 if you are interested. See also L<https://www.booking.com/jobs/>
 
 =head1 DEVELOPMENT
@@ -131,8 +131,8 @@ L<http://github.com/book/Acme-CPANAuthors-Booking/>.
 
 =head1 AUTHOR
 
-Originally written by Abigail, L<cpan@abigail.be>.
-Now maintained by Philippe Bruhat (BooK), L<book@cpan.org>.
+Originally written by Abigail, L<mailto:cpan@abigail.be>.
+Now maintained by Philippe Bruhat (BooK), L<mailto:book@cpan.org>.
 
 =head1 COPYRIGHT
 
