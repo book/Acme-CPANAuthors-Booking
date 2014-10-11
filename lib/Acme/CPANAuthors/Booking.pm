@@ -16,12 +16,14 @@ use Acme::CPANAuthors::Register (
     BLOM          =>   "Menno Blom",
     BOOK          =>   "Philippe Bruhat (BooK)",
     BRUNORC       =>   "Bruno Czekay",
+    BRUNOV        =>   "Bruno Vecchi",
     BUCCIA        =>   "Fernando Vezzosi",               # ID exists, but no modules
     BURAK         =>   "Burak G\x{fc}rsoy (Burak Gursoy)",
     CADAVIS       =>   "Chad A Davis",
     CAIO          =>   "Caio Rom\x{e3}o Costa Nascimento (Caio Romao Costa Nascimento)",
     CANECA        =>   "Matheus Victor Brum Soares",     # ID exists, but no modules
     CEADE         =>   "Chris Eade",                     # ID exists, but no modules
+    CERONMAN      =>   "Manuel Cer\x{f3}n",              # ID exists, but no modules
     CGARCIA       =>   "Claudio Garcia",
     CHE           =>   "Andrey Shpachenko",              # ID exists, but no modules
     DAMOG         =>   "David Moreno",
@@ -48,6 +50,7 @@ use Acme::CPANAuthors::Register (
     JALEVIN       =>   "Joseph A. Levin",                # ID exists, but no modules
     JANUS         =>   "Simon Bertrang",
     JGDA          =>   "Jonas Galhordas Duarte Alves",
+    JHI           =>   "Jarkko Hietaniemi",
     JPO           =>   "Jos\x{e9} Pedro Oliveira (Jose Pedro Oliveira)", # ID exists, but no modules
     KOMAROV       =>   "Oleg Komarov",
     KSURI         =>   "\x{410}\x{43b}\x{435}\x{43a}\x{441}\x{435}\x{439} \x{421}\x{443}\x{440}\x{438}\x{43a}\x{43e}\x{432} (Alexey Surikov)",
@@ -87,7 +90,7 @@ use Acme::CPANAuthors::Register (
     YVES          =>   "Yves",
 );
 
-20999;
+21370;
 
 __END__
 
