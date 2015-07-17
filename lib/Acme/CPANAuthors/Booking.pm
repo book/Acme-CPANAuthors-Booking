@@ -5,7 +5,7 @@ use strict;
 use warnings;
 no  warnings 'syntax';
 
-our $VERSION = '2014101101';
+our $VERSION = '2015071701';
 
 use Acme::CPANAuthors::Register (
     ABCDEFGH      =>   "poddar (Amit Poddar)",
@@ -38,7 +38,6 @@ use Acme::CPANAuthors::Register (
     GGOUDSMIT     =>   "Gilion Goudsmit",
     GRBHAT        =>   "Gurunandan Bhat",
     GUGOD         =>   "\x{5289}\x{5eb7}\x{6c11} (Liu Kang Min)",
-    HERALDB       =>   "Herald van der Breggen",
     HINRIK        =>   "Hinrik \x{d6}rn Sigur\x{f0}sson (Hinrik Orn Sigurdsson)",
     HPETERS       =>   "Huub Peters",                    # ID exists, but no modules
     HUGMEIR       =>   "Brian Fraser",
@@ -49,7 +48,6 @@ use Acme::CPANAuthors::Register (
     JACKDOE       =>   "borislav nikolov",
     JALEVIN       =>   "Joseph A. Levin",                # ID exists, but no modules
     JANUS         =>   "Simon Bertrang",
-    JGDA          =>   "Jonas Galhordas Duarte Alves",
     JHI           =>   "Jarkko Hietaniemi",
     JPO           =>   "Jos\x{e9} Pedro Oliveira (Jose Pedro Oliveira)", # ID exists, but no modules
     KOMAROV       =>   "Oleg Komarov",
@@ -61,7 +59,6 @@ use Acme::CPANAuthors::Register (
     MET           =>   "Quim Rovira",
     MICKEY        =>   "Mickey Nasriachi",
     MSANTOS       =>   "Marco Santos",
-    MSILVA        =>   "Mario Silva",
     MVUETS        =>   "\x{41c}\x{430}\x{43a}\x{441}\x{438}\x{43c} \x{412}\x{443}\x{435}\x{446} (Maxim Vuets)", # ID exists, but no modules
     NEVES         =>   "Marco Neves",
     NILSONSFJ     =>   "Nilson Santos Figueiredo J\x{fa}nior (Nilson Santos Figueiredo Junior)",
@@ -90,7 +87,7 @@ use Acme::CPANAuthors::Register (
     YVES          =>   "Yves",
 );
 
-21370;
+65535;
 
 __END__
 
