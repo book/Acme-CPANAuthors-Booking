@@ -5,18 +5,21 @@ use strict;
 use warnings;
 no  warnings 'syntax';
 
-our $VERSION = '2015071701';
+our $VERSION = '2015082001';
 
 use Acme::CPANAuthors::Register (
     ABCDEFGH      =>   "poddar (Amit Poddar)",
     ALEXT         =>   "Alex Timoshenko",                # ID exists, but no modules
+    ANDREASG      =>   "Andreas Gu\x{f0}mundsson",       # ID exists, but no modules
+    APOC          =>   "Victor Apocalypse Rodrigues",    # ID exists, but no modules
     AVAR          =>   "\x{c6}var Arnfj\x{f6}r\x{f0} Bjarmason (AEvar Arnfjord Bjarmason)",
+    AVEREHA       =>   "Andrei Vereha",                  # ID exists, but no modules
     BDEVETAK      =>   "Bosko Devetak",
-    BLHOTSKY      =>   "Brad Lhotsky",
     BLOM          =>   "Menno Blom",
     BOOK          =>   "Philippe Bruhat (BooK)",
     BRUNORC       =>   "Bruno Czekay",
     BRUNOV        =>   "Bruno Vecchi",
+    BTYLER        =>   "Ben Tyler",
     BUCCIA        =>   "Fernando Vezzosi",               # ID exists, but no modules
     BURAK         =>   "Burak G\x{fc}rsoy (Burak Gursoy)",
     CADAVIS       =>   "Chad A Davis",
@@ -29,6 +32,7 @@ use Acme::CPANAuthors::Register (
     DAMOG         =>   "David Moreno",
     DAMS          =>   "Damien Krotkine",
     DEEPAKG       =>   "Deepak Gulati",
+    DENIK         =>   "Denis Bilenko",
     DGRYSKI       =>   "Damian Gryski",
     DMOR          =>   "David Morel",
     EHERMAN       =>   "Eric Herman",
@@ -36,6 +40,8 @@ use Acme::CPANAuthors::Register (
     FGLOCK        =>   "Fl\x{e1}vio Soibelmann Glock (Flavio Soibelmann Glock)",
     FREEMANSR     =>   "Mihajlo An\x{111}elkovi\x{107}", # ID exists, but no modules
     GGOUDSMIT     =>   "Gilion Goudsmit",
+    GONZUS        =>   "Gonzalo Diethelm",
+    GOODGUY       =>   "Valery Sukhomlinov",             # ID exists, but no modules
     GRBHAT        =>   "Gurunandan Bhat",
     GUGOD         =>   "\x{5289}\x{5eb7}\x{6c11} (Liu Kang Min)",
     HINRIK        =>   "Hinrik \x{d6}rn Sigur\x{f0}sson (Hinrik Orn Sigurdsson)",
@@ -62,6 +68,7 @@ use Acme::CPANAuthors::Register (
     MVUETS        =>   "\x{41c}\x{430}\x{43a}\x{441}\x{438}\x{43c} \x{412}\x{443}\x{435}\x{446} (Maxim Vuets)", # ID exists, but no modules
     NEVES         =>   "Marco Neves",
     NILSONSFJ     =>   "Nilson Santos Figueiredo J\x{fa}nior (Nilson Santos Figueiredo Junior)",
+    NNUSS         =>   "Nate Nuss",                      # ID exists, but no modules
     NPEREZ        =>   "Nicholas Perez",
     POTYL         =>   "Emmanuel Rodriguez",
     PPATTHAR      =>   "Pavan Patthar",                  # ID exists, but no modules
@@ -74,20 +81,21 @@ use Acme::CPANAuthors::Register (
     SPARKY        =>   "Przemys\x{142}aw Iskra (Przemyslaw Iskra)",
     STEFANB       =>   "Stefan Boronea",                 # ID exists, but no modules
     STEVAN        =>   "Stevan Little",
+    STEVENL       =>   "Steven Lee",
     STRANGE       =>   "Luciano Miguel Ferreira Rocha",
     SWEETKID      =>   "Upasana Shukla",
     SYP           =>   "\x{421}\x{442}\x{430}\x{43d}\x{438}\x{441}\x{43b}\x{430}\x{432} \x{41f}\x{443}\x{441}\x{435}\x{43f} (Stanislaw Pusep)",
     TECHCODE      =>   "Aleksandar Petrovi\x{107} (Aleksandar Petrovic)",
     TJUGO         =>   "Jose Mtanous",                   # ID exists, but no modules
     TSBRIGGS      =>   "Thomas Stewart Briggs",          # ID exists, but no modules
+    TVDW          =>   "Tom van der Woerdt",
     VMIKULIC      =>   "Vedran Mikulic",                 # ID exists, but no modules
-    XANT          =>   "Andrea Guzzo",
     XSAWYERX      =>   "Sawyer X",
     YKO           =>   "\x{42f}\x{440}\x{43e}\x{441}\x{43b}\x{430}\x{432} \x{41a}\x{43e}\x{440}\x{448}\x{430}\x{43a} (Yaroslav Korshak)",
     YVES          =>   "Yves",
 );
 
-65535;
+26906;
 
 __END__
 
