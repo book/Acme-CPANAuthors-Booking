@@ -5,11 +5,12 @@ use strict;
 use warnings;
 no  warnings 'syntax';
 
-our $VERSION = '2015082001';
+our $VERSION = '2015120201';
 
 use Acme::CPANAuthors::Register (
     ABCDEFGH      =>   "poddar (Amit Poddar)",
     ALEXT         =>   "Alex Timoshenko",                # ID exists, but no modules
+    ANDRE         =>   "Andr\x{e9} Walker (Andre Walker)",
     ANDREASG      =>   "Andreas Gu\x{f0}mundsson",       # ID exists, but no modules
     APOC          =>   "Victor Apocalypse Rodrigues",    # ID exists, but no modules
     AVAR          =>   "\x{c6}var Arnfj\x{f6}r\x{f0} Bjarmason (AEvar Arnfjord Bjarmason)",
@@ -34,7 +35,6 @@ use Acme::CPANAuthors::Register (
     DEEPAKG       =>   "Deepak Gulati",
     DENIK         =>   "Denis Bilenko",
     DGRYSKI       =>   "Damian Gryski",
-    DMOR          =>   "David Morel",
     EHERMAN       =>   "Eric Herman",
     FARO          =>   "Tiago Faro Pedroso",             # ID exists, but no modules
     FGLOCK        =>   "Fl\x{e1}vio Soibelmann Glock (Flavio Soibelmann Glock)",
@@ -50,10 +50,12 @@ use Acme::CPANAuthors::Register (
     IFTEKHAR      =>   "Iftekharul Haque",
     IKRUGLOV      =>   "Ivan Kruglov",
     IPAPONOV      =>   "Ivan Paponov",                   # ID exists, but no modules
+    ITALIANO      =>   "Roman Studenikin",               # ID exists, but no modules
     IZUT          =>   "Igor Sutton",
     JACKDOE       =>   "borislav nikolov",
     JALEVIN       =>   "Joseph A. Levin",                # ID exists, but no modules
     JANUS         =>   "Simon Bertrang",
+    JEPRICE       =>   "Jeremy Price",
     JHI           =>   "Jarkko Hietaniemi",
     JPO           =>   "Jos\x{e9} Pedro Oliveira (Jose Pedro Oliveira)", # ID exists, but no modules
     KOMAROV       =>   "Oleg Komarov",
@@ -70,6 +72,7 @@ use Acme::CPANAuthors::Register (
     NILSONSFJ     =>   "Nilson Santos Figueiredo J\x{fa}nior (Nilson Santos Figueiredo Junior)",
     NNUSS         =>   "Nate Nuss",                      # ID exists, but no modules
     NPEREZ        =>   "Nicholas Perez",
+    PEARCE        =>   "Dean Pearce",
     POTYL         =>   "Emmanuel Rodriguez",
     PPATTHAR      =>   "Pavan Patthar",                  # ID exists, but no modules
     PSILVA        =>   "Pedro Silva",
@@ -95,7 +98,7 @@ use Acme::CPANAuthors::Register (
     YVES          =>   "Yves",
 );
 
-26906;
+30511;
 
 __END__
 
