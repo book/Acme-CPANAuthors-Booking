@@ -5,13 +5,12 @@ use strict;
 use warnings;
 no  warnings 'syntax';
 
-our $VERSION = '2015120201';
+our $VERSION = '2016073001';
 
 use Acme::CPANAuthors::Register (
-    ABCDEFGH      =>   "poddar (Amit Poddar)",
     ALEXT         =>   "Alex Timoshenko",                # ID exists, but no modules
     ANDRE         =>   "Andr\x{e9} Walker (Andre Walker)",
-    ANDREASG      =>   "Andreas Gu\x{f0}mundsson",       # ID exists, but no modules
+    ANDREASG      =>   "Andreas Gu\x{f0}mundsson (Andreas Gudmundsson)",
     APOC          =>   "Victor Apocalypse Rodrigues",    # ID exists, but no modules
     AVAR          =>   "\x{c6}var Arnfj\x{f6}r\x{f0} Bjarmason (AEvar Arnfjord Bjarmason)",
     AVEREHA       =>   "Andrei Vereha",                  # ID exists, but no modules
@@ -29,7 +28,6 @@ use Acme::CPANAuthors::Register (
     CEADE         =>   "Chris Eade",                     # ID exists, but no modules
     CERONMAN      =>   "Manuel Cer\x{f3}n",              # ID exists, but no modules
     CGARCIA       =>   "Claudio Garcia",
-    CHE           =>   "Andrey Shpachenko",              # ID exists, but no modules
     DAMOG         =>   "David Moreno",
     DAMS          =>   "Damien Krotkine",
     DEEPAKG       =>   "Deepak Gulati",
@@ -56,7 +54,6 @@ use Acme::CPANAuthors::Register (
     JALEVIN       =>   "Joseph A. Levin",                # ID exists, but no modules
     JANUS         =>   "Simon Bertrang",
     JEPRICE       =>   "Jeremy Price",
-    JHI           =>   "Jarkko Hietaniemi",
     JPO           =>   "Jos\x{e9} Pedro Oliveira (Jose Pedro Oliveira)", # ID exists, but no modules
     KOMAROV       =>   "Oleg Komarov",
     KSURI         =>   "\x{410}\x{43b}\x{435}\x{43a}\x{441}\x{435}\x{439} \x{421}\x{443}\x{440}\x{438}\x{43a}\x{43e}\x{432} (Alexey Surikov)",
@@ -69,9 +66,9 @@ use Acme::CPANAuthors::Register (
     MSANTOS       =>   "Marco Santos",
     MVUETS        =>   "\x{41c}\x{430}\x{43a}\x{441}\x{438}\x{43c} \x{412}\x{443}\x{435}\x{446} (Maxim Vuets)", # ID exists, but no modules
     NEVES         =>   "Marco Neves",
+    NFERRAZ       =>   "Nelson Ferraz",
     NILSONSFJ     =>   "Nilson Santos Figueiredo J\x{fa}nior (Nilson Santos Figueiredo Junior)",
     NNUSS         =>   "Nate Nuss",                      # ID exists, but no modules
-    NPEREZ        =>   "Nicholas Perez",
     PEARCE        =>   "Dean Pearce",
     POTYL         =>   "Emmanuel Rodriguez",
     PPATTHAR      =>   "Pavan Patthar",                  # ID exists, but no modules
@@ -82,7 +79,6 @@ use Acme::CPANAuthors::Register (
     SLANNING      =>   "Scott Lanning",
     SMUELLER      =>   "Steffen M\x{fc}ller (Steffen Mueller)",
     SPARKY        =>   "Przemys\x{142}aw Iskra (Przemyslaw Iskra)",
-    STEFANB       =>   "Stefan Boronea",                 # ID exists, but no modules
     STEVAN        =>   "Stevan Little",
     STEVENL       =>   "Steven Lee",
     STRANGE       =>   "Luciano Miguel Ferreira Rocha",
@@ -98,7 +94,7 @@ use Acme::CPANAuthors::Register (
     YVES          =>   "Yves",
 );
 
-30511;
+33684;
 
 __END__
 
