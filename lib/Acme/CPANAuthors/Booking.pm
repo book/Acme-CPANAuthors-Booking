@@ -74,7 +74,6 @@ use Acme::CPANAuthors::Register (
     PPATTHAR      =>   "Pavan Patthar",                  # ID exists, but no modules
     PSILVA        =>   "Pedro Silva",
     RGARCIA       =>   "Rafa\x{eb}l Garcia-Suarez (Rafael Garcia-Suarez)",
-    SEVEAS        =>   "Dennis Kaarsemaker",
     SILVAN        =>   "Silvan Kok",                     # ID exists, but no modules
     SLANNING      =>   "Scott Lanning",
     SMUELLER      =>   "Steffen M\x{fc}ller (Steffen Mueller)",
